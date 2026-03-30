@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "proxmox-mcp-plus": {
+            "command": "sh",
+            "args": [
+                "-c",
+                ". ~/.config/opencode/proxmox-mcp.env && uvx --from git+https://github.com/NewsRx/ProxmoxMCP-Plus.git proxmox-mcp"
+            ]
+        }
+    }
+}
