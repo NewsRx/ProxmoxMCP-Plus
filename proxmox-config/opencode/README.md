@@ -49,3 +49,5 @@ The MCP command in `opencode.jsonc` sources the environment file automatically:
 **Never commit files with real credentials to version control!**
 
 Both `opencode.jsonc` and `proxmox-mcp.env` are excluded via `.git/info/exclude`.
+
+*Co-authored with AI: OpenCode (ollama-cloud/glm-5)*
